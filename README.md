@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ik.imagekit.io/gabiqrm/nlw.svg" width="150" >
-</p>
+
 
 <div align="center">
 
@@ -19,9 +17,7 @@
 
 ## 🖥 Previews:
 
-<p align="center">
-  <img src="https://ik.imagekit.io/gabiqrm/nlw.jpg" width="700" >
-</p>
+
 
 ---
 
