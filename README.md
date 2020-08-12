@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
@@ -8,6 +9,11 @@
 =======
 
 >>>>>>> 88055183bc6d350eedf261f0e452aae3eddc6a39
+=======
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
+>>>>>>> ab423520485a54dbab06d83bbbbb5c0c78cc35ff
 
 <div align="center">
 
