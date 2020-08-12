@@ -1,4 +1,7 @@
 <p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
+<p align="center">
   <img src="https://ik.imagekit.io/gabiqrm/nlw.svg" width="150" >
 </p>
 
