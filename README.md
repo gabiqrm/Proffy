@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 <p align="center">
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
 <p align="center">
   <img src="https://ik.imagekit.io/gabiqrm/nlw.svg" width="150" >
 </p>
+=======
+
+>>>>>>> 88055183bc6d350eedf261f0e452aae3eddc6a39
 
 <div align="center">
 
@@ -22,9 +26,7 @@
 
 ## 🖥 Previews:
 
-<p align="center">
-  <img src="https://ik.imagekit.io/gabiqrm/nlw.jpg" width="700" >
-</p>
+
 
 ---
 
