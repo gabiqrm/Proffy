@@ -1,0 +1,70 @@
+#page-success-insert{
+    background-color: var(--color-primary);
+}
+
+#page-success-insert #container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.check-container{
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4.4rem;
+    
+}
+
+.message-success{
+    text-align: center;
+    font: 700 3.6rem Archivo;
+    color: var(--color-title-in-primary);
+    margin-top: 2.4rem;
+}
+
+.message-success p{
+    font: 700 1.2rem Archivo;
+    margin-top: 2.4rem;
+
+}
+
+.buttons-container{
+    display: flex;
+    justify-content: center;
+    margin: 5.2rem 0;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.buttons-container a{
+    width: 30rem;
+    height: 10.4rem;
+    border-radius: 0.8rem;
+    font: 700 2.4rem Archivo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--color-button-text);
+    transition: background 0.2s;
+}
+
+.buttons-container a img{
+    width: 4rem;
+    margin-right: 2.4rem;
+}
+
+.buttons-container a:hover{
+    background: var(--color-secondary-dark);
+}
+
+.buttons-container a{
+    background: var(--color-secondary);
+    margin-right: 1.6rem;
+}
+
+@media(min-width:1100px){
+    #page-success-insert #container{
+        max-width:100vw;
+    }
+} 

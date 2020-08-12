@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proffy | Sua plataforma de Estudos Online</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/partials/page-success-insert.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap"
+        rel="stylesheet">
+</head>
+
+<body id="page-success-insert" background="images/success-background.svg">
+    <div id="container">
+        <div class="check-container">
+            <img src="images/icons/success-check-icon.svg" alt="Sucesso">
+        </div>
+        <div class="message-success">
+            <h2>Cadastro Salvo!</h2>
+            <p>
+                Tudo certo, seu cadastro está na nossa lista de professores.<br />
+                Agora é só ficar de olho no seu WhatsApp.
+            </p>
+        </div>
+        <div class="buttons-container">
+            <a id="study" class="study"
+                href="/study?subject={{filters.subject}}&weekday={{filters.weekday}}&time={{filters.time}}">
+                <img src="images/icons/study.svg" alt="Esudar">Acessar lista
+            </a>
+        </div>
+    </div>
+    <script src="scripts/redirectToStudy.js"></script>
+</body>
+
+</html>
