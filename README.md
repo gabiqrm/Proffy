@@ -30,7 +30,7 @@
 
 ### Mobile
 
-<p align="center">
+<p>
   <img alt="Mobile Preview" title="Mobile-preview"  src="./public/images/mobiler.png" width="800px">
   
 </p>
