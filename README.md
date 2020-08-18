@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./public/images/logo.png" alt="Proffy" width="280"/>
+   <img src="./public/images/logor.png" alt="Proffy" width="280"/>
 </p>
 
 <div align="center">
