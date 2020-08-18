@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./images/logo.png" alt="Proffy" width="280"/>
+   <img src="./public/images/logo.png" alt="Proffy" width="280"/>
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ### Web
 <p>  
-  <img alt="Web Preview" title="Web-preview" src="./images/webr.png" width="800px">
+  <img alt="Web Preview" title="Web-preview" src="./public/images/webr.png" width="800px">
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### Mobile
 
 <p align="center">
-  <img alt="Mobile Preview" title="Mobile-preview"  src="./images/mobiler.png" width="800px">
+  <img alt="Mobile Preview" title="Mobile-preview"  src="./public/images/mobiler.png" width="800px">
   
 </p>
 
