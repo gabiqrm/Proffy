@@ -1,19 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+   <img src="./images/logo.png" alt="Proffy" width="280"/>
 </p>
-<p align="center">
-  <img src="https://ik.imagekit.io/gabiqrm/nlw.svg" width="150" >
-</p>
-=======
-
->>>>>>> 88055183bc6d350eedf261f0e452aae3eddc6a39
-=======
-<p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
-</p>
->>>>>>> ab423520485a54dbab06d83bbbbb5c0c78cc35ff
 
 <div align="center">
 
@@ -32,6 +19,19 @@
 
 ## 🖥 Previews:
 
+### Web
+<p>  
+  <img alt="Web Preview" title="Web-preview" src="./images/webr.png" width="800px">
+</p>
+
+---
+
+### Mobile
+
+<p align="center">
+  <img alt="Mobile Preview" title="Mobile-preview"  src="./images/mobiler.png" width="800px">
+  
+</p>
 
 
 ---
@@ -41,6 +41,28 @@
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
+
+--- 
+## 🎓 Quem ministrou?
+
+As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week 2**.
+
+---
+
+## ⚙️ Funcionalidades:
+
+- [x] Professores podem se cadastrar na plataforma através de um formulário no qual preenchem seus dados:
+  - [x] Nome completo
+  - [x] Link de uma foto
+  - [x] Número de whatsapp
+  - [x] Breve biografia
+  - [x] Matéria que será lecionada
+  - [x] Custo hora/aula
+  - [x] Horários disponíveis
+
+- [x] Alunos podem buscar professores e:
+  - [x] Filtrar por matéria, dia da semana e horário
+  - [x] Entrar em contato diretamente no whatsapp de determinado professor
 
 --- 
 
@@ -57,7 +79,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 --- 
 
-## ⌨ Como executar o projeto
+## ⌨ Como Executar o Projeto:
 
 ```bash
 # Clonar o repositório
