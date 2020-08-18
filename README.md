@@ -10,10 +10,12 @@
 
 ## 📋 Índice:
 
+- [Preview](#-Preview)
 - [Sobre](#-Sobre)
+- [Quem Ministrou](#-Quem)
+- [Funcionalidades](#-funcionalidades)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
-- [Preview](#-Preview)
 
 ---
 
