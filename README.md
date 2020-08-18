@@ -14,8 +14,8 @@
 - [Sobre](#-Sobre)
 - [Quem Ministrou](#-Quem)
 - [Funcionalidades](#-funcionalidades)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Tecnologias Utilizadas](#-Tecnologias-utilizadas)
+- [Como Executar O Projeto](#-Como-executar-o-projeto)
 
 ---
 
