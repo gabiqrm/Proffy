@@ -100,6 +100,9 @@ npm run dev
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
+##
 Desenvolvido por Gabriela Queiroz ! 💜
