@@ -10,16 +10,16 @@
 
 ## 📋 Índice:
 
-- [Preview](#-Preview)
-- [Sobre](#-Sobre)
-- [Quem Ministrou](#-Quem)
+- [Preview](#-preview)
+- [Sobre](#-sobre)
+- [Quem Ministrou](#-quem-ministrou)
 - [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-Tecnologias-utilizadas)
-- [Como Executar O Projeto](#-Como-executar-o-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Executar o Projeto](#-como-executar-o-projeto)
 
 ---
 
-## 🖥 Previews:
+## 🖥 Preview:
 
 ### Web
 <p>  
@@ -106,3 +106,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ##
 Desenvolvido por Gabriela Queiroz ! 💜
+
