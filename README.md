@@ -40,8 +40,8 @@
 <p align="center">
     <a href="https://proffygb.herokuapp.com//"><img alt ="deploy logo" src="https://www.herokucdn.com/deploy/button.svg" height="45px"></a>
 </p>
----
 
+---
 ## 📖 Sobre:
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
@@ -110,4 +110,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ##
 Desenvolvido por Gabriela Queiroz ! 💜
-
