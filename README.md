@@ -35,7 +35,11 @@
   
 </p>
 
-
+---
+## 🔗 Acesso direto:
+<p align="center">
+    <a href="https://proffygb.herokuapp.com//"><img alt ="deploy logo" src="https://www.herokucdn.com/deploy/button.svg" height="45px"></a>
+</p>
 ---
 
 ## 📖 Sobre:
