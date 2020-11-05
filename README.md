@@ -11,7 +11,7 @@
 ---
 ## 🔗 Acessar:
 <p align="center">
-https://git.heroku.com/proffygb.git
+https://proffygb.herokuapp.com/
 </p>
 
 ---
