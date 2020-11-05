@@ -11,10 +11,8 @@
 ---
 ## 🔗 Acessar:
 <p align="center">
-[![Heroku CI Status](https://proffygb.herokuapp.com/)]
+https://proffygb.herokuapp.com/
 </p>
-[![Heroku CI Status](https://{deployed app name}.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/{pipeline ID}/tests)
-
 ---
 ## 📋 Índice:
 
