@@ -11,7 +11,7 @@
 ---
 ## 🔗 Acessar:
 <p align="center">
-[![Heroku App Status](http://heroku-shields.herokuapp.com/proffygb)](https://proffygb.herokuapp.com)
+https://git.heroku.com/proffygb.git
 </p>
 
 ---
