@@ -91,7 +91,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/gabiqrm/Proffy/
+git clone https://github.com/gabiqrm/Proffy.git
 
 # Entrar no diretório
 cd nlw
