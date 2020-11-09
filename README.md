@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/gabiqrm/nlw)](https://github.com/gabiqrm/nlw)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/nlw)](https://github.com/gabiqrm/nlw/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/nlw)](https://github.com/gabiqrm/nlw/)
+[![GitHub stars](https://img.shields.io/github/stars/gabiqrm/Proffy)](https://github.com/gabiqrm/Proffy)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/Proffy)](https://github.com/gabiqrm/Proffy/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/Proffy)](https://github.com/gabiqrm/Proffy/)
 
 </div>
 
@@ -91,7 +91,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/gabiqrm/nlw/
+git clone https://github.com/gabiqrm/Proffy/
 
 # Entrar no diretório
 cd nlw
