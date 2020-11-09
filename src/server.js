@@ -27,6 +27,4 @@ server
 .get("/give-classes", pageGiveClasses)
 .get("/success-insert", pageSuccessInsert)
 .post("/save-class", saveClasses)
-//.listen(5500)
 .listen(PORT, () => console.log(`Listening on ${ PORT }`))
-
